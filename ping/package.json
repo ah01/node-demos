@@ -1,0 +1,13 @@
+{
+	"name": "pingatko",
+	"version": "0.0.1",
+	"description": "Ping list of IPs and show result.",
+	"author": "Adam Horcica",
+
+	"dependencies": {
+		"ping": "*",
+		"async": "*",
+		"underscore": "*",
+		"colors": "*"
+	}
+}

@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Local",
+		"hosts": ["localhost", "127.0.0.1"]
+	},
+	{
+		"name": "Dead Zone",
+		"hosts": ["null", "limbo", "256.256.256.256"]
+	},
+	{
+		"name": "Intranet",
+		"hosts": ["xxx", "vm-profis-dev", "vm-profis-int"]
+	},
+	{
+		"name": "Internet",
+		"hosts": ["8.8.8.8", "seznam.cz", "google.com", "bing.com", "facebook.com", "twitter.com", "profinit.eu"]
+	}
+]
